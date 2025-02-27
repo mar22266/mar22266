@@ -27,15 +27,27 @@ I am a dedicated and enthusiastic student currently in my fourth year of Compute
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Lenguajes más utilizados
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mar22266&layout=compact&theme=radical)](https://github.com/mar22266)
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mar22266&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Racha de contribuciones
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mar22266&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 🏆 Trofeos de GitHub
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mar22266&theme=radical&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
