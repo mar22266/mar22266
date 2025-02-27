@@ -26,6 +26,12 @@
 
 ---
 
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mar22266&layout=compact&theme=radical)](https://github.com/mar22266)
+
+---
+
 ## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mar22266&show_icons=true&theme=radical)
