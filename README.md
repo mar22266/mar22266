@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-I am a dedicated and enthusiastic student currently in my fourth year of Computer Science and Information Technology Engineering at Universidad del Valle de Guatemala. My interests lie at the intersection of cybersecurity, data analysis, and software development. I thrive on solving complex problems and am committed to continuous learning and professional growth.
+I am a dedicated and enthusiastic student currently in my fifth year of Computer Science and Information Technology Engineering at Universidad del Valle de Guatemala, specializing in Cybersecurity. My interests lie at the intersection of cybersecurity, data analysis, and software development. I thrive on solving complex problems and am committed to continuous learning and professional growth.
 
 - **Logical and analytical thinker** with strong problem-solving skills.
 - **Leadership abilities** and experience in collaborative team environments.
