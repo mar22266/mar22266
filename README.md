@@ -29,13 +29,13 @@ I am a dedicated and enthusiastic student currently in my fifth year of Computer
 
 ## Lenguajes más utilizados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mar22266&layout=compact&theme=radical)](https://github.com/mar22266)
+[![Top Langs](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=mar22266&layout=compact&theme=radical)](https://github.com/mar22266)
 
 ---
 
 ## Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mar22266&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=mar22266&show_icons=true&theme=radical)
 
 ---
 
