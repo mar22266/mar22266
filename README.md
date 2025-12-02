@@ -1,10 +1,10 @@
-# Hello! I'm André Marroquín Tarot 👋
+# Hello! I'm André Marroquín Tarot
 
 **Computer Science and Information Technology Engineering Student** at Universidad del Valle de Guatemala. Passionate about **cybersecurity**, **data analysis**, and **software development**.
 
 ---
 
-## 🚀 About Me
+## About Me
 I am a dedicated and enthusiastic student currently in my fifth year of Computer Science and Information Technology Engineering at Universidad del Valle de Guatemala, specializing in Cybersecurity. My interests lie at the intersection of cybersecurity, data analysis, and software development. I thrive on solving complex problems and am committed to continuous learning and professional growth.
 
 - **Logical and analytical thinker** with strong problem-solving skills.
@@ -27,35 +27,35 @@ I am a dedicated and enthusiastic student currently in my fifth year of Computer
 
 ---
 
-## 📊 Lenguajes más utilizados
+## Lenguajes más utilizados
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mar22266&layout=compact&theme=radical)](https://github.com/mar22266)
 
 ---
 
-## 📈 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mar22266&show_icons=true&theme=radical)
 
 ---
 
-## 🔥 Racha de contribuciones
+## Racha de contribuciones
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mar22266&theme=radical)](https://git.io/streak-stats)
 
 ---
 
-## 🏆 Trofeos de GitHub
+## Trofeos de GitHub
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=mar22266&theme=radical&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-marroqu%C3%ADn-tarot-0173a622b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mar22266)
 
 ---
 
-Thank you for visiting my profile! 😊
+Thank you for visiting my profile! 
